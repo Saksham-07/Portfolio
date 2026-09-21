@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "portfolio-6669"
+  },
+  "targets": {
+    "portfolio-6669": {
+      "hosting": {
+        "portfolio-site": [
+          "sakshamsportfolio"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
