@@ -95,6 +95,8 @@ class _IsometricRoomViewState extends State<IsometricRoomView> with SingleTicker
     'Who keeps opening this?!',
     'Tell my laptop I loved it!',
     'I meant to do that.',
+    'Delete my browser history',
+    'I can fly',
   ];
   String? _say; // speech bubble over his head
   double _sayT = 0;
