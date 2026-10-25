@@ -6,9 +6,25 @@ An interactive portfolio built entirely in **Flutter Web**. You can explore it a
 
 > Flutter developer with 2.5+ years of experience shipping a production ERP for garment manufacturing: analytics dashboards, multi-stage QA audits, RFID inventory, and HR self-service. **Open to new roles and relocation.**
 
+<img src="docs/screenshots/landing.jpg" alt="Landing screen: pick Retro OS or the 2D room">
+
 ---
 
 ## Two ways to explore
+
+### Retro OS
+
+| | |
+|:-:|:-:|
+| <img src="docs/screenshots/retro_desktop.jpg" alt="Retro OS desktop with About Me window"> | <img src="docs/screenshots/retro_uilab.jpg" alt="UI Lab: custom-painted KPI wheel"> |
+
+### Isometric House
+
+| | |
+|:-:|:-:|
+| <img src="docs/screenshots/room.jpg" alt="Isometric bedroom with character"> | <img src="docs/screenshots/room_projects.jpg" alt="Holo projects panel opened from the study desk"> |
+
+### What's inside
 
 | Mode | What it is |
 |---|---|
