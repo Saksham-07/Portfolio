@@ -74,14 +74,14 @@ class _IsometricRoomViewState extends State<IsometricRoomView> with SingleTicker
   _Scene? _scene;
   double _sceneT = 0;
   Pose _pose = const Pose();
-  double _eyeOpen = 1; // 0 = eyes shut (black screen) ... 1 = fully open
+  double _eyeOpen = 1;
   double _blur = 0;
   double _shake = 0;
-  bool _dream = false; // this wake-up follows a window fall: show the "it was a dream" popup afterwards
-  String? _leaveTo; // route to go to once he's asleep in bed
+  bool _dream = false;
+  String? _leaveTo;
   Decal? _fallWin;
   String _fallLine = 'AAAAH!';
-  static int _falls = 0; // static: survives leaving the room, resets when the page is closed / reloaded
+  static int _falls = 0;
   static const _fallLines = [
     'AAAAH!',
     'Whatt?!',
